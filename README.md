@@ -2,4 +2,4 @@
 This is a demo for git &amp; github class.
 
 # student
-delta-student,name is uday
+delta-student,name is uday.
